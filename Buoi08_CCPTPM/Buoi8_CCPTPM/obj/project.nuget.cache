@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "jMBEAzJfylNK3Yfe3/Zl119YX18b2xdKs5DLhRTAtluPD5N3TbmPLIuLQtPAA1KLfdvhJxfPv6r5s6h44okAZQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\BAO PHUC- PC\\Source\\Repos\\bt-tuan8-0306191074_0306191060_0306191062\\Buoi08_CCPTPM\\Buoi8_CCPTPM\\Buoi8_CCPTPM.csproj",
+=======
+  "dgSpecHash": "zuoqUsb6fYPcrDs4DEsJV9aj3kYEODnRlTSnhqKAJgHNs5QfoXrgrPOBRm0Z85YVEyvaebq+pEwuXUGiyvf/ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\bt-tuan8-0306191074_0306191060_0306191062\\Buoi08_CCPTPM\\Buoi8_CCPTPM\\Buoi8_CCPTPM.csproj",
+>>>>>>> c589e999a055dd1434cc3959aadb95ac97806686
   "expectedPackageFiles": [],
   "logs": []
 }
