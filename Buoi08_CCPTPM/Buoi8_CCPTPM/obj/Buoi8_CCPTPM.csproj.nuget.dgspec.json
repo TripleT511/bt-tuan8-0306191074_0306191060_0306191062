@@ -1,34 +1,20 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\BAO PHUC- PC\\Source\\Repos\\bt-tuan8-0306191074_0306191060_0306191062\\Buoi08_CCPTPM\\Buoi8_CCPTPM\\Buoi8_CCPTPM.csproj": {}
+    "D:\\bttuan88\\Buoi08_CCPTPM\\Buoi8_CCPTPM\\Buoi8_CCPTPM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BAO PHUC- PC\\Source\\Repos\\bt-tuan8-0306191074_0306191060_0306191062\\Buoi08_CCPTPM\\Buoi8_CCPTPM\\Buoi8_CCPTPM.csproj": {
+    "D:\\bttuan88\\Buoi08_CCPTPM\\Buoi8_CCPTPM\\Buoi8_CCPTPM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BAO PHUC- PC\\Source\\Repos\\bt-tuan8-0306191074_0306191060_0306191062\\Buoi08_CCPTPM\\Buoi8_CCPTPM\\Buoi8_CCPTPM.csproj",
+        "projectUniqueName": "D:\\bttuan88\\Buoi08_CCPTPM\\Buoi8_CCPTPM\\Buoi8_CCPTPM.csproj",
         "projectName": "Buoi8_CCPTPM",
-        "projectPath": "C:\\Users\\BAO PHUC- PC\\Source\\Repos\\bt-tuan8-0306191074_0306191060_0306191062\\Buoi08_CCPTPM\\Buoi8_CCPTPM\\Buoi8_CCPTPM.csproj",
-        "packagesPath": "C:\\Users\\BAO PHUC- PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BAO PHUC- PC\\Source\\Repos\\bt-tuan8-0306191074_0306191060_0306191062\\Buoi08_CCPTPM\\Buoi8_CCPTPM\\obj\\",
-=======
-    "C:\\Users\\Asus\\source\\repos\\bt-tuan8-0306191074_0306191060_0306191062\\Buoi08_CCPTPM\\Buoi8_CCPTPM\\Buoi8_CCPTPM.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\Asus\\source\\repos\\bt-tuan8-0306191074_0306191060_0306191062\\Buoi08_CCPTPM\\Buoi8_CCPTPM\\Buoi8_CCPTPM.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\bt-tuan8-0306191074_0306191060_0306191062\\Buoi08_CCPTPM\\Buoi8_CCPTPM\\Buoi8_CCPTPM.csproj",
-        "projectName": "Buoi8_CCPTPM",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\bt-tuan8-0306191074_0306191060_0306191062\\Buoi08_CCPTPM\\Buoi8_CCPTPM\\Buoi8_CCPTPM.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\bt-tuan8-0306191074_0306191060_0306191062\\Buoi08_CCPTPM\\Buoi8_CCPTPM\\obj\\",
->>>>>>> c589e999a055dd1434cc3959aadb95ac97806686
+        "projectPath": "D:\\bttuan88\\Buoi08_CCPTPM\\Buoi8_CCPTPM\\Buoi8_CCPTPM.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\bttuan88\\Buoi08_CCPTPM\\Buoi8_CCPTPM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\BAO PHUC- PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
