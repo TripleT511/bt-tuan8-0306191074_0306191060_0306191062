@@ -11,19 +11,19 @@ namespace Buoi8_CCPTPM.Models
         public static int idAdmin;
         public static string name;
     }
-    public static void dangNhap()
+    public static void dangNhap(string uname,string pass)
     {
 
     }
-    public static void timKiemTV()
+    public static void timKiemTV(int id)
     {
 
     }
-    public static void chinhSuaTV()
+    public static void chinhSuaTV(int id)
     {
 
     }
-    public static void xoaTV()
+    public static void xoaTV(int id)
     {
 
     }
@@ -31,7 +31,7 @@ namespace Buoi8_CCPTPM.Models
     {
 
     }
-    public static void timBaiViet()
+    public static void timBaiViet(int id)
     {
 
     }
@@ -39,11 +39,11 @@ namespace Buoi8_CCPTPM.Models
     {
 
     }
-    public static void chinhSuaBaiViet()
+    public static void chinhSuaBaiViet(int id)
     {
 
     }
-    public static void xoaBaiViet()
+    public static void xoaBaiViet(int id)
     {
 
     }
