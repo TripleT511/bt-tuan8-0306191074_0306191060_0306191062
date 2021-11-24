@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi8_CCPTPM", "Buoi8_CCPTPM\Buoi8_CCPTPM.csproj", "{162833E8-35FE-44D2-AAF6-6A1EE225F071}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{162833E8-35FE-44D2-AAF6-6A1EE225F071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{162833E8-35FE-44D2-AAF6-6A1EE225F071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{162833E8-35FE-44D2-AAF6-6A1EE225F071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{162833E8-35FE-44D2-AAF6-6A1EE225F071}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3CEA4E2-5FA1-4988-9C60-AC71A544AF07}
+	EndGlobalSection
+EndGlobal
