@@ -39,3 +39,44 @@ C:\Users\Asus\OneDrive\Desktop\Buoi8_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Buoi8_
 C:\Users\Asus\OneDrive\Desktop\Buoi8_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Buoi8_CCPTPM.genruntimeconfig.cache
 C:\Users\Asus\OneDrive\Desktop\Buoi8_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Buoi8_CCPTPM.csproj.CopyComplete
 C:\Users\Asus\OneDrive\Desktop\Buoi8_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\bin\Debug\net5.0\appsettings.json
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\bin\Debug\net5.0\Buoi8_CCPTPM.exe
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\bin\Debug\net5.0\Buoi8_CCPTPM.deps.json
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\bin\Debug\net5.0\Buoi8_CCPTPM.runtimeconfig.json
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\bin\Debug\net5.0\Buoi8_CCPTPM.runtimeconfig.dev.json
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\bin\Debug\net5.0\Buoi8_CCPTPM.dll
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\bin\Debug\net5.0\ref\Buoi8_CCPTPM.dll
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\bin\Debug\net5.0\Buoi8_CCPTPM.pdb
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\bin\Debug\net5.0\Buoi8_CCPTPM.Views.dll
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\bin\Debug\net5.0\Buoi8_CCPTPM.Views.pdb
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Buoi8_CCPTPM.csproj.AssemblyReference.cache
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Buoi8_CCPTPM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Buoi8_CCPTPM.AssemblyInfoInputs.cache
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Buoi8_CCPTPM.AssemblyInfo.cs
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Buoi8_CCPTPM.csproj.CoreCompileInputs.cache
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Buoi8_CCPTPM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Buoi8_CCPTPM.RazorAssemblyInfo.cache
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Buoi8_CCPTPM.RazorAssemblyInfo.cs
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\staticwebassets\Buoi8_CCPTPM.StaticWebAssets.Manifest.cache
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\staticwebassets\Buoi8_CCPTPM.StaticWebAssets.xml
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\scopedcss\bundle\Buoi8_CCPTPM.styles.css
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Buoi8_CCPTPM.TagHelpers.input.cache
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Buoi8_CCPTPM.TagHelpers.output.cache
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Buoi8_CCPTPM.RazorCoreGenerate.cache
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Buoi8_CCPTPM.RazorTargetAssemblyInfo.cache
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Buoi8_CCPTPM.RazorTargetAssemblyInfo.cs
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Buoi8_CCPTPM.Views.pdb
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Buoi8_CCPTPM.dll
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\ref\Buoi8_CCPTPM.dll
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Buoi8_CCPTPM.pdb
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Buoi8_CCPTPM.genruntimeconfig.cache
+C:\Users\BAO PHUC- PC\Source\Repos\bt-tuan8-0306191074_0306191060_0306191062\Buoi08_CCPTPM\Buoi8_CCPTPM\obj\Debug\net5.0\Buoi8_CCPTPM.csproj.CopyComplete

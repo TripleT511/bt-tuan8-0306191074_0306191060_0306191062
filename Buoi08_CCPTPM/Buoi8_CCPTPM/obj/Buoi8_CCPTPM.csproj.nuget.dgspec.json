@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\OneDrive\\Desktop\\Buoi8_CCPTPM\\Buoi8_CCPTPM\\Buoi8_CCPTPM.csproj": {}
+    "C:\\Users\\BAO PHUC- PC\\Source\\Repos\\bt-tuan8-0306191074_0306191060_0306191062\\Buoi08_CCPTPM\\Buoi8_CCPTPM\\Buoi8_CCPTPM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\OneDrive\\Desktop\\Buoi8_CCPTPM\\Buoi8_CCPTPM\\Buoi8_CCPTPM.csproj": {
+    "C:\\Users\\BAO PHUC- PC\\Source\\Repos\\bt-tuan8-0306191074_0306191060_0306191062\\Buoi08_CCPTPM\\Buoi8_CCPTPM\\Buoi8_CCPTPM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\Desktop\\Buoi8_CCPTPM\\Buoi8_CCPTPM\\Buoi8_CCPTPM.csproj",
+        "projectUniqueName": "C:\\Users\\BAO PHUC- PC\\Source\\Repos\\bt-tuan8-0306191074_0306191060_0306191062\\Buoi08_CCPTPM\\Buoi8_CCPTPM\\Buoi8_CCPTPM.csproj",
         "projectName": "Buoi8_CCPTPM",
-        "projectPath": "C:\\Users\\Asus\\OneDrive\\Desktop\\Buoi8_CCPTPM\\Buoi8_CCPTPM\\Buoi8_CCPTPM.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\OneDrive\\Desktop\\Buoi8_CCPTPM\\Buoi8_CCPTPM\\obj\\",
+        "projectPath": "C:\\Users\\BAO PHUC- PC\\Source\\Repos\\bt-tuan8-0306191074_0306191060_0306191062\\Buoi08_CCPTPM\\Buoi8_CCPTPM\\Buoi8_CCPTPM.csproj",
+        "packagesPath": "C:\\Users\\BAO PHUC- PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BAO PHUC- PC\\Source\\Repos\\bt-tuan8-0306191074_0306191060_0306191062\\Buoi08_CCPTPM\\Buoi8_CCPTPM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BAO PHUC- PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
