@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 namespace Buoi8_CCPTPM.Models
 {
 
-    public class admin : member
+    public class admin : Member
     {
         public static int idAdmin;
         public static string name;
