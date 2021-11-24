@@ -7,8 +7,8 @@ namespace Buoi8_CCPTPM.Models
 {
     public class Member : User
     {
-        public void DangKy() { }
-        public void DangNhap() { }
+        public void DangKy(string tentk, string mk) { }
+        public void DangNhap(string tentk, string mk) { }
         public void BinhLuan() { }
         public void UploadTaiLieu() { }
         public void TaoTopic() { }
